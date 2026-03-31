@@ -63,5 +63,6 @@ else:
 \___
 
 \*как-то так*
-  <a href="#readme - top"> back to top </a>
+
+<a href="#readme - top"> back to top </a>
 
